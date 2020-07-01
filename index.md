@@ -25,6 +25,6 @@ I'll leave a paypal link/embed in the short future. For now, just tell all your 
 # MONEY $0/50,000
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
-<br>July 1 2020- tested textures, success
-<a href="https://ibb.co/6w0sJbp"><img src="https://i.ibb.co/yPFsB5M/2020-07-01-14-16-42.png" alt="2020-07-01-14-16-42" border="0"></a>
+<br>July 1 2020- tested textures, success. Finished zombie texture.
+<br><a href="https://ibb.co/6w0sJbp"><img src="https://i.ibb.co/yPFsB5M/2020-07-01-14-16-42.png" alt="2020-07-01-14-16-42" border="0"></a>
 <br>June 30 2020- added textures for skeletons and minecarts. Started MetaMC
