@@ -24,6 +24,6 @@ I'll leave a paypal link/embed in the short future. For now, just tell all your 
 
 # MONEY $0/50,000
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
-####Changelog and teasers below
+###Changelog and teasers below
 
 <br>June 30 2020- added textures for skeletons and minecarts. Started MetaMC
