@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NOTANO0B/MetaMC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to MetaMC
+MetaMC will be the biggest datapack that ever comes to minecraft, with a planned size of 2-6 gigabytes! (we wanted to make it larger, but some people cant hold that much)
+The pack is mainly based on anarchy, so you will see a LOT the following:
+Guns
+RPGS
+Various Explosives
+Epic Gear!
+This datapack is currently being developed by github user NOTANO0B, or more commonly known as NOTANOOB#8711 on discord.
 
 ### Markdown
 
@@ -11,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1of 
 ## Header 2
 ### Header 3
 
