@@ -6,6 +6,7 @@ MetaMC will be the biggest datapack that ever comes to minecraft, with a planned
 <br>Various Explosives
 <br>Epic Gear!
 <br>This datapack is currently being developed by github user NOTANO0B, or more commonly known as NOTANOOB#8711 on discord.
+<br>AN EPIC TEXTURE PACK IS ALSO INCLUDED, THIRSTY YET?!
 
 ### Markdown
 
