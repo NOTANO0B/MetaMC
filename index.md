@@ -21,6 +21,7 @@ Cuz I'm a human too
 ### I WANNA DONATE!! WHERE COULD I?!
 
 I'll leave a paypal link/embed in the short future. For now, just tell all your friends about this epic datapack!!
+<br>You know what, if this hits $100 I'll release a skin for all of you, 100% Major League Gaming!
 
 # MONEY $0/50,000
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
