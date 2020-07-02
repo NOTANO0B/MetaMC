@@ -24,6 +24,9 @@ I'll leave a paypal link/embed in the short future. For now, just tell all your 
 <br>You know what, if this hits $100 I'll release a skin for all of you, 100% Major League Gaming!
 
 # MONEY $0/50,000
+### I DONATED BUT MY MONEY DIDN'T SHOW UP! U LIED TO ME!!!
+Calm down, I'll check my paypal every once in a while and add the funds that I recieved. The donations are not updated real time, because I don't have the time to make a bot that updates this, sorry.
+<br>
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
 <br>July 1 2020- tested textures, success. Finished zombie texture. Added splash texts!
