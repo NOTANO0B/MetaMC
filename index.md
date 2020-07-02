@@ -25,7 +25,7 @@ I'll leave a paypal link/embed in the short future. For now, just tell all your 
 
 # MONEY $0/50,000
 ### I DONATED BUT MY MONEY DIDN'T SHOW UP! U LIED TO ME!!!
-Calm down, I'll check my paypal every once in a while and add the funds that I recieved. The donations are not updated real time, because I don't have the time to make a bot that updates this, sorry.
+Calm down, I'll check my paypal every once in a while and add the funds that I recieve. The donations are not updated real time, because I don't have the time to make a bot that updates this, sorry. If you have any concerns, I'm more than happy to talk to you about it over discord, you can see my username and tag above.
 <br>
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
