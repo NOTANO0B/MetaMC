@@ -29,6 +29,7 @@ Calm down, I'll check my paypal every once in a while and add the funds that I r
 <br>
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
+<br>July 4- Added stuff, non-important stuff. Might be taking a break from development.
 <br>July 1 2020- tested textures, success. Finished zombie texture. Added splash texts!
 <br><a href="https://ibb.co/6w0sJbp"><img src="https://i.ibb.co/yPFsB5M/2020-07-01-14-16-42.png" alt="2020-07-01-14-16-42" border="0"></a>
 <br>June 30 2020- added textures for skeletons and minecarts. Started MetaMC
