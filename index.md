@@ -17,6 +17,7 @@ This datapack will be avaliable for download once we reach 50k USD
 Cuz I'm a human too
 <br>On a more serious note, I am a student like most of the people here at the time of writing (year 2020), and I need money like everyone else. After I graduate, I'll need money for housing and cars and equipment and stuff like that, and I'll dedicate my life to computer programming, which means that I'll make more awesome stuff like this for the rest of my life. All of this needs funding, so yeah.
 <br>If 50 thousand people each donate a dollar, then everyone could play this epic datapack for free. If each of these 50 thousand people tell their friends and family, every one will only have to donate 10 cents for unlimited access to the greatest datapack for minecraft. Most big youtubers have 1-50 million subs, if each subscriber gives even a cent, chances are the youtuber would have more money than this 50k, so it's really not that much.
+<br>guys this got on r/dontfundme, I have left an explanation in the comments section explaning the situation, if you won't donate then I won't ask you to, uploading this or not publicly is my right, and I would like to add "fuck you u/8bitzawad". https://www.reddit.com/r/DontFundMe/comments/hliwkx/kid_wants_50000_to_make_a_minecraft_datapack/
 
 ### I WANNA DONATE!! WHERE COULD I?!
 
