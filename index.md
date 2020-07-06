@@ -33,7 +33,7 @@ My server is very fun, you should definitiely check it out! I'll accept (most) f
 <br>
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
-<br>July 6- Ok I've recieved a lot of critisism on reddit, thanks for ruining my life guys. Anyways, break over, I've changed the language a little, very epic. TRUST ME GUYS
+<br>July 6- Ok I've recieved a lot of critisism on reddit, thanks for ruining my life guys. Anyways, break over, I've changed the language a little, very epic. TRUST ME GUYS. (update: doors now say "kick me")
 <br>July 4- Added stuff, non-important stuff. Might be taking a break from development.
 <br>July 1 2020- tested textures, success. Finished zombie texture. Added splash texts!
 <br><a href="https://ibb.co/6w0sJbp"><img src="https://i.ibb.co/yPFsB5M/2020-07-01-14-16-42.png" alt="2020-07-01-14-16-42" border="0"></a>
