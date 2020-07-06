@@ -7,6 +7,7 @@ MetaMC will be the biggest datapack that ever comes to minecraft, with a planned
 <br>Totally Awesome Gear!
 <br>This datapack is currently being developed by github user NOTANO0B, or more commonly known as NOTANOOB#8711 on discord.
 <br>AN EPIC TEXTURE PACK IS ALSO INCLUDED, THIRSTY YET?!
+<br> Some people demanded I give more detail on what I'll make, so I'll add a hyperlink here on detailed plans.
 
 ### Okay, I want this! HoW tO dOwNlOaD?!11
 
@@ -29,7 +30,7 @@ Calm down, I'll check my paypal every once in a while and add the funds that I r
 <br>
 <br>I'll leave screenshots and updates below, keep your eyes peeled!
 #### Changelog and teasers below
-<br>July 6 Ok I've recieved a lot of critisism on reddit, thanks for ruining my life guys. Anyways, break over, I've changed the language a little, very epic. TRUST ME GUYS
+<br>July 6- Ok I've recieved a lot of critisism on reddit, thanks for ruining my life guys. Anyways, break over, I've changed the language a little, very epic. TRUST ME GUYS
 <br>July 4- Added stuff, non-important stuff. Might be taking a break from development.
 <br>July 1 2020- tested textures, success. Finished zombie texture. Added splash texts!
 <br><a href="https://ibb.co/6w0sJbp"><img src="https://i.ibb.co/yPFsB5M/2020-07-01-14-16-42.png" alt="2020-07-01-14-16-42" border="0"></a>
