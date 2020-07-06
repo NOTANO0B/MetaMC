@@ -23,6 +23,7 @@ Cuz I'm a human too
 
 I'll leave a paypal link/embed in the short future. For now, just tell all your friends about this epic datapack!!
 <br>You know what, if this hits $100 I'll release a skin for all of you, 100% Major League Gaming!
+Once we reach $500, $1000, $5000, $10,000 and more I'll publicly release some assets, and you guys get to vote on it!
 
 # MONEY $0/50,000
 ### I DONATED BUT MY MONEY DIDN'T SHOW UP! U LIED TO ME!!!
