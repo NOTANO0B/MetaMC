@@ -1,3 +1,6 @@
+---
+title: Planned features MetaMC
+---
 ## Here is a list of planned features for MetaMC*:
 <br>RPGS
 <br>Riot Shields
