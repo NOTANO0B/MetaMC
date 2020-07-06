@@ -1,4 +1,4 @@
-##Here is a list of planned features for MetaMC*:
+## Here is a list of planned features for MetaMC*:
 <br>RPGS
 <br>Riot Shields
 <br>Assult rifles (AK-47, G36C and more)
