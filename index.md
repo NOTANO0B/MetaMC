@@ -1,3 +1,5 @@
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0" nonce="jcbJe9po"></script>
 ## Welcome to MetaMC
 MetaMC will be the biggest datapack that ever comes to minecraft, with a planned size of 2-6 Gigabytes! This datpack is based on anarchy, so there'll be a lot of guns and stuff, for a(n) *almost* complete list please go [here](https://github.com/NOTANO0B/MetaMC/blob/master/planned-features.md).
 <br> Although you could just read this, I reccommend you go [here](https://github.com/NOTANO0B/MetaMC/blob/master/old.md) to understand what's going on.
@@ -7,3 +9,5 @@ Great question. I'm thinking of starting a youtube series where I showcase my up
 ### Then WHEN WE GET DA PACK
 Depending on the popularity, I'll decide on a milestone.
 # [placeholder for milestone progress]
+No mean comments pls
+<div class="fb-comments" data-href="https://notano0b.github.io/MetaMC" data-numposts="5" data-width=""></div>
