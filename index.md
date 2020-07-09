@@ -6,4 +6,4 @@ Great question. I'm thinking of starting a youtube series where I showcase my up
 <br> That means I'll no longer keep any logs on my updates, you could all view it on my [channel](https://www.youtube.com/channel/UCJQxqjtVvZIQ6ERq4e3auug?view_as=subscriber).
 ### Then WHEN WE GET DA PACK
 Depending on the popularity, I'll decide on a milestone.
-# [placeholder for milestone]
+# [placeholder for milestone progress]
