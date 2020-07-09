@@ -24,5 +24,5 @@
 <br>Smarter villagers (they are now neutral, but they drop more stuff)(?)
 <br>Feces (edible)
 <br>
-<br>*This list is only a sample of the actual thing, everything I write here is confirmed but there (may or may not, but probably may) more
+<br>*This list is only a sample of the actual thing, everything I write here is confirmed but there (may or may not, but probably may) be more
 <br>(?)I'm thinking about it, UNCONFIRMED
