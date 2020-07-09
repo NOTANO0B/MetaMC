@@ -18,10 +18,10 @@
 <br>Entity resprites
 <br>SMGs (UZI, MP5, UMP and more)
 <br>Pistols (M1911, Revolvers, Deagle and more)
-<br>more
-<br>
-<br>
-<br>
+<br>Grapple hooks
+<br>Tactical Umbrellas
+<br>Planes(?)
+<br>Smarter villagers (they are now neutral, but they drop more stuff)(?)
 <br>
 <br>
 <br>*This list is only a sample of the actual thing, everything I write here is confirmed but there (may or may not, but probably may) more
