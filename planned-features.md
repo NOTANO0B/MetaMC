@@ -1,6 +1,3 @@
----
-title: Planned features MetaMC
----
 ## Here is a list of planned features for MetaMC*:
 <br>RPGS
 <br>Riot Shields
@@ -19,9 +16,9 @@ title: Planned features MetaMC
 <br>Cars (with epic music, and drifting(?))
 <br>Jetskis(?)
 <br>Entity resprites
+<br>SMGs (UZI, MP5, UMP and more)
+<br>Pistols (M1911, Revolvers, Deagle and more)
 <br>
 <br>
-<br>
-<br>
-<br>*This list is only a sample of the actual thing, everything I write here is confirmed but there will be more
+<br>*This list is only a sample of the actual thing, everything I write here is confirmed but there (may or may not, but probably may) more
 <br>(?)I'm thinking about it, UNCONFIRMED
