@@ -1,4 +1,4 @@
-
+# This was a bad idea. I'd probably be sued if I actually did this, thanks r/dontfundme, but thanks more to the people that knocked some sense into me. I still want the haters that called me beggars to go to hell tho. Anyways, I've updated the [MetaMC](https://notanoob.github.io/MetaMC) website for a more legal solution, I'll still make my money and you'll still get the datapack, but no one has to pay and zero is a good price. I'll leave this page as an archive to prove that I'm not afraid of my mistakes, thanks for your support everyone and thanks more to the haters that actually apologised for being an asshole, it takes a lot of strength to admit your mistakes. (by "mistakes I meant them calling me a beggar, calling my datapack shitty and other mean stuff. The fact that the 50K was a bad idea is accepted by me, because it actually is a fact, thanks guys)
 ## Welcome to MetaMC
 MetaMC will be the biggest datapack that ever comes to minecraft, with a planned size of 2-6 gigabytes! (we wanted to make it larger, but some people cant hold that much)
 <br>The pack is mainly based on anarchy, so you will see a LOT the following:
