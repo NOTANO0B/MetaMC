@@ -8,3 +8,4 @@ Great question. I'm thinking of starting a youtube series where I showcase my up
 ### Then WHEN WE GET DA PACK
 Depending on the popularity, I'll decide on a milestone.
 # [placeholder for milestone progress]
+### We have a [subreddit](https://www.reddit.com/r/MetaMC/) by the way
